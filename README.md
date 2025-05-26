@@ -6,3 +6,4 @@ My project is a native Android app that uses Kotlin in Android Studio to assist 
 ![Screenshot 2025-05-26 230426](https://github.com/user-attachments/assets/78c39641-202f-4635-ac4a-a69c45d4d0f2)
 ![Screenshot 2025-05-26 230516](https://github.com/user-attachments/assets/4071d158-8a48-4a56-ad96-e9b1c69818d8)
 ![Screenshot 2025-05-26 230524](https://github.com/user-attachments/assets/92b44f37-c8b8-4162-a406-740102c859d2)
+https://youtube.com/shorts/7Kgb8latWeQ?si=T9prSJ6MJIQzLcoI
